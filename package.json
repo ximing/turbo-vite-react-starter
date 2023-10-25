@@ -51,7 +51,7 @@
     "@babel/core": "^7.11.0",
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-typescript": "^7.16.0",
-    "@babel/traverse": "^7.16.3",
+    "@babel/traverse": "^7.23.2",
     "@changesets/cli": "^2.23.0",
     "@commitlint/config-conventional": "^17.0.3",
     "@commitlint/cli": "^17.4.2",
